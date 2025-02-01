@@ -1,0 +1,38 @@
+.name {
+    background-color: rgb(227, 226, 226);
+    display: flex;
+    justify-content: space-between;
+    }
+
+
+.contact{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.id{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.title{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.words{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.skills{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
